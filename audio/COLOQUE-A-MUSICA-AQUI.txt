@@ -1,0 +1,5 @@
+Coloque aqui o arquivo da música com o nome exato:
+
+    musica.mp3
+
+O site procura por audio/musica.mp3. Pode apagar este aviso depois.
